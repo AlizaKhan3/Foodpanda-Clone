@@ -462,7 +462,7 @@
   }
   
   .office .background-image {
-    background: url("assets/images/office-bg.png");
+    background: url("images/office.webp");
     min-height: 280px;
     background-size: cover;
     height: 100%;
